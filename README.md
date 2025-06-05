@@ -1,3 +1,11 @@
+![intelligence-1](https://github.com/user-attachments/assets/b9d31016-4ef3-4a65-8fef-8bc3b698ccc4)
+
+
+
+
+
+
+
 
   <br>
   <a href="http://netflix-clone-with-tmdb-using-react-mui.vercel.app/">
