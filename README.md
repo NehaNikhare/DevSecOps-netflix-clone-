@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/0d133020-0384-4065-b598-7245db78f7ae)
 
   <br>
   <a href="http://netflix-clone-with-tmdb-using-react-mui.vercel.app/">
